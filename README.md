@@ -40,4 +40,4 @@ The generated site will be committed to the [gh-pages branch](https://github.com
 SP2-1 story
 Sp and SP2 added
 line  added
-SP1 only.
+SP1 only..
